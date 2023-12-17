@@ -21,7 +21,7 @@ body {
 
 .navbar-light .navbar-nav .nav-link:hover {
   font-weight: lighter;
-  color: #1100ff !important;
+  color: #ffffff !important;
 }
 
 .hero .header-name {
@@ -52,7 +52,7 @@ body {
 }
 
 .hero h2 {
-  color: #E69DB5;
+  color: #1100ff;
   font-size: 14px;
   font-family: 'Roboto', sans-serif;
   font-weight: normal;
